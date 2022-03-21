@@ -4,7 +4,7 @@ import openpyxl
 
 def with_dr():
 
-    path='A:\python projects\Bank_managent\data\data.xlsx'
+    path='Enter Path Of Excel File'
     df = pd.read_excel(path)
     wb= openpyxl.load_workbook(path)
     ws=wb['Sheet1']
@@ -44,3 +44,4 @@ def with_dr():
     except:
         pass
 #with_dr()
+#github: - @padalakiran

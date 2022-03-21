@@ -6,7 +6,7 @@ import random
 
 
 
-path = 'A:\python projects\Bank_managent\data\data.xlsx'
+path = 'Enter Path Of Excel File'
 
 def create_acc():
 
@@ -64,3 +64,4 @@ def create_acc():
     else:
         print('Phone Number Is not correct')
 #create_acc()
+#github: - @padalakiran

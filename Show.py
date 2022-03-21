@@ -4,7 +4,7 @@ import xlrd
 
 def showCu():
  try:
-        path='A:\python projects\Bank_managent\data\data.xlsx'
+        path='Enter Path Of Excel File'
 
         print('what do you want to Show: ')
         print('1.Names','\t','2.Account Numbers',
@@ -97,3 +97,4 @@ def showCu():
  except:
      print("Enter Valid Data")   
 #showCu()
+#github: - @padalakiran

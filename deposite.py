@@ -4,7 +4,7 @@ import openpyxl
 
 def dep():
 
-    path='A:\python projects\Bank_managent\data\data.xlsx'
+    path='Enter Path Of Excel File'
     df = pd.read_excel(path)
     wb= openpyxl.load_workbook(path)
     ws=wb['Sheet1']
@@ -40,4 +40,4 @@ def dep():
     except:
         pass
 #dep()
-
+#github: - @padalakiran

@@ -4,15 +4,15 @@
 
 1)pandas: - pip install pandas
 
-2) time: - pip install time
+2)time: - pip install time
 
-3) phonenumbers: - pip install phonenumbers
+3)phonenumbers: - pip install phonenumbers
 
-4) random: - pip install random
+4)random: - pip install random
 
-5) xlrd: - pip install xlrd
+5)xlrd: - pip install xlrd
 
-6) openpyxl: - pip install openpyxl
+6)openpyxl: - pip install openpyxl
 
 -->And You need an excel Sheet with the Headings of
 

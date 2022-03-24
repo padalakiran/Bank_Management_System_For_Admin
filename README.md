@@ -1,6 +1,6 @@
 # Bank_Management_System_For_Admin
 
---> if You want to access this project you need some modules those are
+##  if You want to access this project you need some modules those are
 
 1)pandas: - pip install pandas
 
@@ -14,7 +14,7 @@
 
 6)openpyxl: - pip install openpyxl
 
--->And You need an excel Sheet with the Headings of
+##  And You need an excel Sheet with the Headings of
 
 A1)Name
 
